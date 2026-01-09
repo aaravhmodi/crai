@@ -3,6 +3,8 @@
 > **An AI-powered baby cry analysis system for early detection of genetic diseases and health conditions**  
 > Built for **HackMIT 2025** 🚀
 
+> **⚠️ Major Contributions**: This project was developed with **major contributions from Arya Manjaramkar**, including significant work on the ML backend, Modal deployment, and cry classification algorithms.
+
 ## 🌟 Overview
 
 CRAI is an advanced intelligent baby cry monitoring and analysis application that leverages cutting-edge AI technologies, signal processing, and clinical research to detect potential health issues in infants through acoustic analysis. The system can identify genetic disorders, neurological conditions, respiratory distress, and other medical indicators from baby cry patterns.
